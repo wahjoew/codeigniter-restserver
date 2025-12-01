@@ -1,6 +1,6 @@
 <?php
 
-namespace chriskacerguis\RestServer;
+namespace wahjoew\RestServer;
 
 use Exception;
 
