@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
  *
  * @version         4.0.0
  */
-class RestController extends \CI_Controller
+class RestController extends \MY_Controller
 {
     /**
      * This defines the rest format
