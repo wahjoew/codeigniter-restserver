@@ -1,17 +1,17 @@
 {
-    "name": "chriskacerguis/codeigniter-restserver",
-    "description": "CI Rest Server",
+    "name": "wahjoew/codeigniter-restserver",
+    "description": "CI Rest Server - fork from chriskacerguis/codeigniter-restserver",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Chris Kacerguis",
-            "email": "chriskacerguis@gmail.com"
+            "name": "wahjoew",
+            "email": "jojos_set@yahoo.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"chriskacerguis\\RestServer\\": "src/"}
+        "psr-4": {"wahjoew\\RestServer\\": "src/"}
     },
     "require": {}
 }
